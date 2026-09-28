@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/birhanugudisa3" target="blank"><img src="https://img.shields.io/twitter/follow/birhanugudisa3?logo=twitter&style=for-the-badge" alt="birhanugudisa3" /></a> </p>
 
-- 🔭 I’m currently learning full-stack [@Microverse](https://dashboard.microverse.org/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/GutemaG](https://github.com/GutemaG)
 
-- 💬 Ask me about **Vue, JavaScript, Django, HTML/CSS, FastAPI**
+- 💬 Tech **React, Nextjs, C#(.Net),Vue, JavaScript, Django, HTML/CSS, FastAPI**
 
-- 📫 How to reach me **bir13gud17@gmail.com**
+- 📫 How to reach me **birhanu.gudisa.tolosa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
